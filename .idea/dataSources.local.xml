@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Bank App DB on localhost PostgreSQL" uuid="04ef7f4e-bea6-4093-a672-07e91cf07ea8">
+      <database-info product="PostgreSQL" version="11.11 (Debian 11.11-0+deb10u1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5" dbms="POSTGRES" exact-version="11.11" exact-driver-version="42.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>appuser</user-name>
+      <introspection-schemas>@:@|bank_app:</introspection-schemas>
+    </data-source>
+  </component>
+</project>
